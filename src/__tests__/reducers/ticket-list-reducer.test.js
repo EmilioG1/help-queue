@@ -15,7 +15,7 @@ describe('ticketListReducer', () => {
       issue: 'reducer has side effects.',
     id: 2 }
   };
-  
+
   const currentState = {
     1: { names: 'Ryan and Aimen',
     location: '4b',
